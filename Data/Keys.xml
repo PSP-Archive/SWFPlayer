@@ -1,0 +1,33 @@
+<!-- Possible key codes													-->
+<!--																	-->
+<!--	INVALID															-->
+<!--	A B C D E F G H I J K L M N O P Q R S T U V W X Y Z				-->
+<!--	_0 _1 _2 _3 _4 _5 _6 _7 _8 _9									-->
+<!--	KP_0 KP_1 KP_2 KP_3 KP_4 KP_5 KP_6 KP_7 KP_8 KP_9				-->
+<!--	KP_MULTIPLY KP_ADD KP_ENTER KP_SUBTRACT KP_DECIMAL KP_DIVIDE	-->
+<!--	F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 F13 F14 F15				-->
+<!--	BACKSPACE TAB CLEAR ENTER SHIFT CONTROL ALT CAPSLOCK ESCAPE		-->
+<!--	SPACE PGDN PGUP END HOME										-->
+<!--	LEFT UP RIGHT DOWN												-->
+<!--	INSERT DELETEKEY HELP NUM_LOCK SEMICOLON EQUALS MINUS			-->
+<!--	SLASH BACKTICK LEFT_BRACKET BACKSLASH RIGHT_BRACKET QUOTE		-->
+
+<keys>
+	<SELECT val="INVALID"></SELECT>
+	<START val="INVALID"></START>
+	<UP val="UP"></UP>
+	<RIGHT val="RIGHT"></RIGHT>
+	<DOWN val="DOWN"></DOWN>
+	<LEFT val="LEFT"></LEFT>
+	<LTRIGGER val="INVALID"></LTRIGGER>
+	<RTRIGGER val="INVALID"></RTRIGGER>
+	<CIRCLE val="O"></CIRCLE>
+	<TRIANGLE val="INVALID"></TRIANGLE>
+	<SQUARE val="SPACE"></SQUARE>
+	<HOLD val="INVALID"></HOLD>
+	<NOTE val="INVALID"></NOTE>
+	<HOME val="INVALID"></HOME>
+
+	<!-- Always reserved for mouse button -->
+	<CROSS val="MOUSE"></CROSS>
+</keys>

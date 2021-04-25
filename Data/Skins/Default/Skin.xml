@@ -1,0 +1,60 @@
+<!-- Skin Config File -->
+<skin>
+	<!-- Font Settings -->
+	<font>
+		<size x="14.f" y="15.f"></size>
+		<space_size size="6.f"></space_size>
+	</font>
+
+	<!-- Window Settings -->
+	<window>
+		<color_on a="255" r="255" g="255" b="255"></color_on>
+		<color_off a="128" r="255" g="255" b="255"></color_off>
+		<text_color_on a="255" r="255" g="255" b="255"></text_color_on>
+		<text_color_off a="128" r="255" g="255" b="255"></text_color_off>
+		<title_offset x="0.f" y="0.f"></title_offset>
+		<title_color_on a="255" r="255" g="255" b="255"></title_color_on>
+		<title_color_off a="128" r="128" g="128" b="128"></title_color_off>
+	</window>
+
+	<!-- Window Item Settings -->
+	<window_item>
+		<text_color_on a="255" r="255" g="255" b="255"></text_color_on>
+		<text_color_off a="128" r="128" g="128" b="128"></text_color_off>
+	</window_item>
+
+	<!-- Window Table Settings -->
+	<window_table>
+		<highlight_color a="128" r="64" g="64" b="64"></highlight_color>
+	</window_table>
+
+	<!-- Directory List Settings -->
+	<directory_list>
+		<max_scale val="1.f"></max_scale>
+		<min_scale val="0.75f"></min_scale>
+		<src_list_size x="320.f" y="220.f"></src_list_size>
+		<src_list_pos_on x="80.f" y="16.f"></src_list_pos_on>
+		<src_list_pos_off x="16.f" y="16.f"></src_list_pos_off>
+		<dst_list_size x="320.f" y="220.f"></dst_list_size>
+		<dst_list_pos_on x="144.f" y="16.f"></dst_list_pos_on>
+		<dst_list_pos_off x="144.f" y="16.f"></dst_list_pos_off>
+		<file_mark_color_on a="255" r="64" g="64" b="96"></file_mark_color_on>
+		<file_mark_color_off a="128" r="64" g="64" b="96"></file_mark_color_off>
+	</directory_list>
+
+	<!-- HUD Component Settings -->
+	<hud>
+		<text_color a="255" r="255" g="255" b="255"></text_color>
+		<buttons_pos x="400.f" y="220.f"></buttons_pos>
+		<usb_icon_pos x="16.f" y="240.f"></usb_icon_pos>
+		<date_time_pos x="4.f" y="2.f"></date_time_pos>
+		<song_title_pos x="140.f" y="244.f"></song_title_pos>
+		<song_title_size x="200.f" y="12.f"></song_title_size>
+		<progress_bar_pos x="140.f" y="250.f"></progress_bar_pos>
+	</hud>
+
+	<!-- Background Settings -->
+	<background>
+		<background_stripes val="1"></background_stripes>
+	</background>
+</skin>

@@ -1,0 +1,5 @@
+<!-- SWF Player Config File -->
+<SWFPlayer>
+    <!-- User options -->
+    <options play_swf="ms0:/psp/game/swfplayer/data/harecut.swf" max_image_size="256" competition_hack="0" skin="Default" src_path="ms0:/" />
+</SWFPlayer>
